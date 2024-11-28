@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header h1 {
+    margin-top: 20px;
+  }
+  
+  .navbar-nav li a {
+    background-color: #ddd; /* Цвет фона меню */
+  }
+  
+  section {
+    text-align: center;
+  }
